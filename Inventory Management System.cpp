@@ -83,6 +83,7 @@ int main()
         cout << "3. Display Inventory" << endl;
         cout << "4. Calculate Total Inventory Value" << endl;
         cout << "5. Exit" << endl;
+        cout << "Enter any number from 1 - 5 to access the options" << endl;
 
         cin >> choice;
 
